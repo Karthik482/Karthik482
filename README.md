@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karthik chevuru
 - 👀 I’m interested in mining insights from data and building python automation tools.
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on ML based financial research based project
+- 💞️ I’m looking to collaborate on ML based financial research projects
 - 📫 How to reach me (chevuru.k@northeastern.edu)
 
 <!---
